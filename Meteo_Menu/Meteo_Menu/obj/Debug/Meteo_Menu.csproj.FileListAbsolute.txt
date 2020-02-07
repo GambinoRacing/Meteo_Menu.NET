@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\bin\Debug\Meteo_Menu.exe.config
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\bin\Debug\Meteo_Menu.exe
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\bin\Debug\Meteo_Menu.pdb
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\obj\Debug\Meteo_Menu.Archive.resources
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\obj\Debug\Meteo_Menu.Form1.resources
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\obj\Debug\Meteo_Menu.Properties.Resources.resources
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\obj\Debug\Meteo_Menu.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\obj\Debug\Meteo_Menu.exe
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\obj\Debug\Meteo_Menu.pdb
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\obj\Debug\Meteo_Menu.unArchive.resources
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\obj\Debug\Meteo_Menu.ArchiveSynop.resources
+C:\Users\admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\obj\Debug\Meteo_Menu.unArchiveSynop.resources
+C:\Users\Admin\Desktop\Meteo_Menu.NET\Meteo_Menu\Meteo_Menu\obj\Debug\Meteo_Menu.csprojAssemblyReference.cache
